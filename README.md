@@ -1,4 +1,5 @@
 # bhuudo.github.io
+<html>
 <pre>
 /***************************************************************************
  *  Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,        *
@@ -38036,3 +38037,4 @@ void update_handler( void )
 }
   
 </pre>
+</html>
